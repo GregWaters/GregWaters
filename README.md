@@ -1,5 +1,5 @@
 ## Hello!
-My name is Greg Waters, I work in C.
+My name is Greg, I work in C.
 
 I like keeping things small, simple, and fast.
 When I write software, I try to use these ideas to make my C code readable.
