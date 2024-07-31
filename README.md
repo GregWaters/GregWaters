@@ -2,7 +2,7 @@
 My name is Greg, I work in C.
 
 I like keeping things small, simple, and fast.
-When I write software, I try to use these ideas to make my C code readable.
+When I write software, I try to use these ideals to make my C code readable.
 
 ## My philosophy
 If you want to succeed, you *need* to be prepared for the long game.
